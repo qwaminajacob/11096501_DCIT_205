@@ -16,9 +16,9 @@
 # YOu can now open it in your favorite code editor
 
 # NAME AND ID
-# NAME:
+# NAME:Angabey Jacob
 
-# ID:
+# ID:11096501
 
 # SCREENSHOTS OF PAGES OF YOUR WEBSITE
 # file:///home/qwamina/Pictures/Screenshots/Screenshot%20from%202023-11-27%2020-12-16.png
