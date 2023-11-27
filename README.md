@@ -17,9 +17,11 @@
 
 # NAME AND ID
 # NAME:
+
 # ID:
 
 # SCREENSHOTS OF PAGES OF YOUR WEBSITE
+# file:///home/qwamina/Pictures/Screenshots/Screenshot%20from%202023-11-27%2020-12-16.png
 
 
 # WHAT YOU HAVE LEARNED FROM THE PROJECT
