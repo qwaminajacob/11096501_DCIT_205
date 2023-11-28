@@ -41,10 +41,17 @@
   .box {
     width: calc(25%-20);
     height: 60px;
-    background-color: #ccc;
+    background-color:grey;
     margin-right: 60;
     align-items: center;
     padding: 10;
+    color: white;
+    cursor: pointer;
+      
+  
+  }
+  .box:hover{
+    background-color:burlywood;
   }
 
  .container img{
@@ -297,12 +304,12 @@
 
   .row-container {
     display: flex;
-    margin-top: 300px;
-    margin-left: 200;
+    margin-top: 400px;
+    margin-left: 300;
     margin-right: 10;
     height: 0px;
     width: 40px;
-    size: 20;
+    size: 10;
 
     
     align-items: center;
